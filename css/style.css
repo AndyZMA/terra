@@ -8235,7 +8235,7 @@ body.flyout-searchbar-active .wraper_search > .table > .table-cell .inner_search
 .accordion-box .block .icon-outer .icon_down {
 	opacity: 0;
 	color: #222 !important;
-	font-family: "Font Awesome 5 Free"
+	font-family: "Font Awesome 5 Free";
 	font-weight: 900;
 }
 
